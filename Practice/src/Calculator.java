@@ -1,6 +1,5 @@
 // Jenkins build test
-// demo video
-// team member test
+// test demo video
 
 public class Calculator {
     public int add(int a, int b) {
